@@ -41,7 +41,7 @@ dependencies {
     }
 
     api("org.yaml:snakeyaml:1.26") // Version provided by velocity - shaded/relocated on Spigot and BungeeCord
-    api("org.spongepowered:configurate-yaml:4.2.0-SNAPSHOT")
+    api("org.spongepowered:configurate-yaml:4.3.0-SNAPSHOT")
     api("org.spongepowered:configurate-extra-guice:4.2.0-SNAPSHOT")
 
     api("com.google.inject:guice:5.1.0") {
